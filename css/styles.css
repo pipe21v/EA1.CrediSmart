@@ -33,7 +33,10 @@ body {
 /*seccion de hero e index*/
 .hero { 
     background-color: var(--naranja); 
+    
 }
+
+
 
 /*cards*/
 .credit-card {
@@ -74,4 +77,5 @@ body {
     background-color: var(--naranja); 
     height: 60px;
 }
+
 
